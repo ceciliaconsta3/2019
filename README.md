@@ -15,7 +15,7 @@ The Disclaimer: Depending on time constraints and unforeseen circumstances, I ma
 5. Live minimally
 6. Contribute to [Habitica](https://habitica.com/)
 7. Start a business
-8. [Plat my PlayStation games](https://www.truetrophies.com/gamer/Neo_Fades)
+8. [Plat my PlayStation games](https://psnprofiles.com/Neo_Fades)
 9. [Finish a FreeCodeCamp cert](https://www.freecodecamp.org/ceciliaconsta3)
 10. Complete 75% remaining WGU courses
 11. Launch an [app](/Android.md)
