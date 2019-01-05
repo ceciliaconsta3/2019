@@ -11,7 +11,7 @@ The Disclaimer: Depending on time constraints and unforeseen circumstances, I ma
 1. [Improve my health - starting metrics to come](https://www.fitbit.com/user/6K95X5)
 2. [Learn Korean](/Korean.md)
 3. Complete [#100DaysOfCode](/100Days-log.md)
-4. [Read 12 books](https://www.goodreads.com/review/list/84207402-cecilia?read_at=2019)
+4. [Read 12 books](https://www.goodreads.com/user_challenges/15471158)
 5. Live minimally
 6. Contribute to [Habitica](https://habitica.com/)
 7. Start a business
