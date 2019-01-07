@@ -17,6 +17,17 @@
 >qUOTE
 
 -->
+
+# Day 4: Jan 6
+## Today's Progress
+- [X] Continued reading about short-circuit/conditional operators and the like
+### Thoughts 
+Seems like I left off on the Java Masterclass a bit ahead of this books contents. Since I didn't have a lot of time today to prioritize coding project, opted to catch up on some reading and light tinkering instead. Spent the day unpacking boxes and participating in my first home inspection. Exciting and scary stuff. Someone told me a decent analogy about the house buying process. 
+### References(s)
+* [Java A Beginner's Guide - Seventh Edition by Schildt](https://www.amazon.com/Java-Beginners-Seventh-Herbert-Schildt/dp/1259589315/ref=sr_1_1?s=books&ie=UTF8&qid=1546685469&sr=1-1&keywords=Java+A+Beginner%27s+Guide+-+Seventh+Edition+by+Schildt)
+>Unless you're building a new home, buying a house is just like buying a used car.
+
+
 # Day 3: Jan 4-5
 ## Today's Progress
 - [X] Fleshed out study plan for WGU, FreeCodeCamp, and mobile app timeline
