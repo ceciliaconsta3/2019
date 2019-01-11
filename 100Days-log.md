@@ -17,6 +17,72 @@
 >qUOTE
 
 -->
+# Day 8: Jan 10
+## Today's Progress
+- [X] Applied Accessibility
+- [X] Responsive Web Design
+### Thoughts 
+<p>Got through the above sections fairly quickly due to previous experience. Pretty cool to actually breeze through some material instead of living in Struggle &trade; City the whole time. At work I'm about to start creating my first JQuery carousel with content dynamically added through an AJAX call using endpoints from the WordPress REST API. So far I've got the object titles, featured image, and post link to display on the page. Next is to build out the carousel's functionality. Last is the styling. Also, there may be an opportunity to dive into React and React Native on the horizon. FeelsGoodMan.</p>
+# Link(s) to work
+1. Accessibility - [Source](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility)
+2. RWD - [Source](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles)
+
+>Measure twice, cut once
+
+<!--
+# Day 7: Jan 9
+## Today's Progress
+- [X]
+- [X]
+### Thoughts 
+<img src="http://www.skipser.com/i/2/images/a1/programmer_joke1.jpg" alt="comic showing the life of a coder">
+<pre>Code snippets</pre>
+```
+```
+### Link(s) to work
+1. [My Activity](https://www.freecodecamp.com/ceciliaconsta)
+2. []() 
+### References(s)
+* [Udemy Java Programming Masterclass](https://www.udemy.com/java-the-complete-java-developer-course/learn/v4/content)
+* []()
+>qUOTE
+-->
+<!--
+# Day 6: Jan 8
+## Today's Progress
+- [X]
+- [X]
+### Thoughts 
+<img src="http://www.skipser.com/i/2/images/a1/programmer_joke1.jpg" alt="comic showing the life of a coder">
+<pre>Code snippets</pre>
+```
+```
+### Link(s) to work
+1. [My Activity](https://www.freecodecamp.com/ceciliaconsta)
+2. []() 
+### References(s)
+* [Udemy Java Programming Masterclass](https://www.udemy.com/java-the-complete-java-developer-course/learn/v4/content)
+* []()
+>qUOTE
+
+<!--
+# Day 5: Jan 7
+## Today's Progress
+- [X]
+- [X]
+### Thoughts 
+<img src="http://www.skipser.com/i/2/images/a1/programmer_joke1.jpg" alt="comic showing the life of a coder">
+<pre>Code snippets</pre>
+```
+```
+### Link(s) to work
+1. [My Activity](https://www.freecodecamp.com/ceciliaconsta)
+2. []() 
+### References(s)
+* [Udemy Java Programming Masterclass](https://www.udemy.com/java-the-complete-java-developer-course/learn/v4/content)
+* []()
+>qUOTE
+-->
 
 # Day 4: Jan 6
 ## Today's Progress
@@ -39,7 +105,6 @@ Seems like I left off on the Java Masterclass a bit ahead of this books contents
 <p>Started back up on an old but highly recommended and continuously updated comprehensive Java course for auditory and visual learning while picking where I left off on Ch. 2* (Data types and Operations) to cover the written visual learning aspect</p> 
 
 _*Going forward all book chapter references are referring to the Beginner's Guide literature referenced below unless otherwise stated_
-
  
 ![Anime girl sleeping at her desk](https://im4.ezgif.com/tmp/ezgif-4-31d5e6ee3a0d.gif)
 >"We become what we think about all day long" - Ralph Waldo Emerson
