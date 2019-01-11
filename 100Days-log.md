@@ -81,7 +81,7 @@
 <p>The first step would be to sit and record how much time I spend completing this process manually on one workbook. Next step is to compile a list of each action needed to complete a task - the algorithm - and finally start small and see if I can implement the task automatically. Of course, this would take some more research and I would need to shore up on the feasibility of implementing this program. We need to see how much time, hypothetically, would it take me to create such a program as well. The limiting factor would just be my understanding. If it works, we save some time. If it fails, we go back to doing things manually and I would be just a tad bit wiser on things I had not yet known. </p>
 
 ### References(s)
-* [Java A Beginner's Guide - Seventh Edition by Schildt](https://www.amazon.com/Java-Beginners-Seventh-Herbert-Schildt/dp/1259589315/ref=sr_1_1?s=books&ie=UTF8&qid=1546685469&sr=1-1&keywords=Java+A+Beginner%27s+Guide
+* [Java A Beginner's Guide - Seventh Edition by Schildt](https://www.amazon.com/Java-Beginners-Seventh-Herbert-Schildt/dp/1259589315/ref=sr_1_1?s=books&ie=UTF8&qid=1546685469&sr=1-1&keywords=Java+A+Beginner%27s+Guide+-+Seventh+Edition+by+Schildt)
 
 
 
@@ -90,9 +90,12 @@
 - [X] Continued reading about short-circuit/conditional operators and the like
 #### Thoughts 
 Seems like I left off on the Java Masterclass a bit ahead of this book's contents. Since I didn't have a lot of time today to prioritize coding project, opted to catch up on some reading and light tinkering instead. Spent the day unpacking boxes and participating in my first home inspection. Exciting and scary stuff. Someone told me a decent analogy about the house buying process. :point_down:
+
+>Unless you're building a new home, buying a house is just like buying a very expensive used car. Pick what price range and level of wear and tear you're comfortable with, pay the man, and turn the keys already.
+
 #### References(s)
 * [Java A Beginner's Guide - Seventh Edition by Schildt](https://www.amazon.com/Java-Beginners-Seventh-Herbert-Schildt/dp/1259589315/ref=sr_1_1?s=books&ie=UTF8&qid=1546685469&sr=1-1&keywords=Java+A+Beginner%27s+Guide+-+Seventh+Edition+by+Schildt)
->Unless you're building a new home, buying a house is just like buying a very expensive used car. Pick what price range and level of wear and tear you're comfortable with, pay the man, and turn the keys already.
+
 
 
 
@@ -109,7 +112,8 @@ Seems like I left off on the Java Masterclass a bit ahead of this book's content
 _*Going forward all book chapter references are referring to the Beginner's Guide literature referenced below unless otherwise stated_
  
 ![Anime girl sleeping at her desk](https://im4.ezgif.com/tmp/ezgif-4-31d5e6ee3a0d.gif)
->"We become what we think about all day long" - Ralph Waldo Emerson
+
+>We become what we think about all day long - Ralph Waldo Emerson
 
 #### Reference(s)
 * [Udemy Java Masterclass](https://www.udemy.com/java-the-complete-java-developer-course/learn/v4/content)
@@ -124,10 +128,16 @@ _*Going forward all book chapter references are referring to the Beginner's Guid
 Had an enlighting talk with my boss today. The first time in awhile I've ever felt so strongly about getting a promotion, having more responsibility, learning and breaking my brain on new languages. Scary and exciting stuff. I love it.
 
 Also, I'm about ready to jump off of the old #teamnosleep bandwagon but I've got coursework and papers to sign. Time management has to be one the most crucial skills I need to absolutely master in my adult life. Future me depends on it. Can't let her down.
+
+ <p><em>Me hoarding my off work hours</em></p>
+ 
+![Gif of Gollum and his precious](https://media.giphy.com/media/xlLerrsdqYdWw/giphy.gif)
+
 #### Reference(s)
 Java A Beginner's Guide - Seventh Edition by Schildt
-![Gif of Gollum and his precious](https://media.giphy.com/media/xlLerrsdqYdWw/giphy.gif)
- <p><em>Me hoarding my off work hours</em></p>
+
+
+
 
 
 ## Day 1: Jan 2
