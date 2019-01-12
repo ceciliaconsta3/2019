@@ -18,7 +18,7 @@
 -->
 
 
-## Day 9: Jan 1
+## Day 9: Jan 11
 ### Today's Progress
 - [X] Introduction to the Applied Visual Design Challenges - 25/52 exercises
 - [X] M001: MongoDB Basics - Chapter 1 - 10/26 assignments
