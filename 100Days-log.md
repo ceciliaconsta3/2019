@@ -5,6 +5,9 @@
 - [X]
 #### Thoughts 
 <img src="http://www.skipser.com/i/2/images/a1/programmer_joke1.jpg" alt="comic showing the life of a coder">
+![Bird tucking himself in](https://media.giphy.com/media/JVPPiJ3sX5cY0/giphy.gif)
+![Study Mode: On](https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif)
+![Chill Shibu Inu on a laptop](https://media.giphy.com/media/ny7UCd6JETnmE/giphy.gif)
 <pre>Code snippets</pre>
 ```
 ```
@@ -16,7 +19,10 @@
 * [Java A Beginner's Guide - Seventh Edition by Schildt](https://www.amazon.com/Java-Beginners-Seventh-Herbert-Schildt/dp/1259589315/ref=sr_1_1?s=books&ie=UTF8&qid=1546685469&sr=1-1&keywords=Java+A+Beginner%27s+Guide+-+Seventh+Edition+by+Schildt)
 >qUOTE
 -->
-## Day 12: Jan 14
+
+
+
+## Day 9: Jan 14
 ### Today's Progress
 - [X] Finished Applied Visual Design
 - [X] CSS Flex
@@ -24,7 +30,8 @@
 #### Thoughts 
 <p>Went ahead and knocked out these sections. Most of it was review in terms of terminology except for CSS Grid. It would be fun to create a gallery or entire newspaper/blog layout using it. Alas, if only I had the time. Grateful to have finished the 2 hours and change working on those sections earlier in the day because honestly, way to tired to do anything else. Not classwork, not laundry, not even getting ready for bed.</p>
 
-![Bird tucking himself in](https://media.giphy.com/media/JVPPiJ3sX5cY0/giphy.gif)
+![Tired Sailor Moon](https://media.giphy.com/media/NACJsYCa3QPL2/giphy.gif)
+ 
  <p><em>I'm done fam</em></p>
  
 #### References(s)
@@ -33,34 +40,15 @@
 3. Grid - [Source](https://learn.freecodecamp.org/responsive-web-design/css-grid/)
 
 
-<!--
-## Day 10: Jan 12
-### Today's Progress
-- [X] Introduction to the Applied Visual Design Challenges - 25/52 exercises
-- [X] M001: MongoDB Basics - Chapter 1 - 10/26 assignments
-#### Thoughts 
-<p>Knocked out about half of the FreeCodeCamp Visual Design curriculum for a review. What I really want to do is get to the bezel curve sections and make some minimal and cute CSS animated designs. Aside from AVD, all that's left is CSS Flex and Grid before starting the remaining 3 of 5 projects. I've considered just jumping straight to the projects since this section is already up my alley, but for the sake of completion...</p>
-<p>Concidentally, way before I started this challenged and penned my 2019 goals, I signed up for a free MongoDB course with a friend. So today, since we both got that reminder email letting us know assignments will be due soon, I started the first assignment in that 3 week curriculum. It consists of 3 chapters, sprinkled graded lab assignments, and a final worth 50% of your grade. Doesn't seem time intensive so I'm confident I can tack on some of that progress within my hour of code for this challenge. :pray: No famous last words here. Not trying to overextend my already hectic schedule.</p>
-<p>Got to use some of the tidbits I learned in yesterday's accessibility module. I swapped out a few of the standard <code>div</code>'s in my carousel project for <code>section</code> and <code>header</code> tags as well as some <code>tabindex</code> to make sure at least my own elements would be focusable for keyboard-only users. I'm using the high-level ChromeVox Chrome extension to give me a sense of how our page would be read through by a screenreader and the Audit tab of the DevTools for a sharper accessibility analysis. Of course in due diligence, I started modifying other elements but there were formatting and styling ties I need a green-light to break. Anyways, taking one step toward my goal of being a developer who creates clean, DRY, and accessible code/programs.</p>
-#### References(s)
-1. AVD - [Source](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design)
-2. Mongo - [Source](https://university.mongodb.com/courses/M001/about)
--->
 
-
-<!--
-## Day 9: Jan 11
-### Today's Progress
-- [X] Introduction to the Applied Visual Design Challenges - 25/52 exercises
-- [X] M001: MongoDB Basics - Chapter 1 - 10/26 assignments
+## Jan 11 - 13
 #### Thoughts 
-<p>Knocked out about half of the FreeCodeCamp Visual Design curriculum for a review. What I really want to do is get to the bezel curve sections and make some minimal and cute CSS animated designs. Aside from AVD, all that's left is CSS Flex and Grid before starting the remaining 3 of 5 projects. I've considered just jumping straight to the projects since this section is already up my alley, but for the sake of completion...</p>
-<p>Concidentally, way before I started this challenged and penned my 2019 goals, I signed up for a free MongoDB course with a friend. So today, since we both got that reminder email letting us know assignments will be due soon, I started the first assignment in that 3 week curriculum. It consists of 3 chapters, sprinkled graded lab assignments, and a final worth 50% of your grade. Doesn't seem time intensive so I'm confident I can tack on some of that progress within my hour of code for this challenge. :pray: No famous last words here. Not trying to overextend my already hectic schedule.</p>
-<p>Got to use some of the tidbits I learned in yesterday's accessibility module. I swapped out a few of the standard <code>div</code>'s in my carousel project for <code>section</code> and <code>header</code> tags as well as some <code>tabindex</code> to make sure at least my own elements would be focusable for keyboard-only users. I'm using the high-level ChromeVox Chrome extension to give me a sense of how our page would be read through by a screenreader and the Audit tab of the DevTools for a sharper accessibility analysis. Of course in due diligence, I started modifying other elements but there were formatting and styling ties I need a green-light to break. Anyways, taking one step toward my goal of being a developer who creates clean, DRY, and accessible code/programs.</p>
-#### References(s)
-1. AVD - [Source](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design)
-2. Mongo - [Source](https://university.mongodb.com/courses/M001/about)
--->
+<p>Literally no time to touch a computer today. And when I did have time, I chose to rest/eat/spend time with the husbando. This was an important time surrounding traveling family, long overdue errands, and more technicalities in the homebuying process. I knew this would be the case during the weekend when I woke up and realized, on top of it all, I had to send the ole boy to the dealership. Made amends by watching Youtube videos and reading some informative Medium articles on accessibility tips, design patterns and the like while on the loo and in queues. Though this challenge does permit one to use tutorials in the coding hour, I'm not comfortable solely viewing a tutorial without touching a keyboard to type at least one example. Too early to throw that pity towel. For the sake of my own sense of honor in this challenge I shall still log these days because code was reviewed but I shall not label them official "days".>
+ 
+
+ ![Homer stressing over textbooks](https://media.giphy.com/media/IPbS5R4fSUl5S/giphy.gif)
+ 
+ <em>On another note, <strong>really</strong> need to figure out this schedule of mine.</em>
 
 
 ## Day 8: Jan 10
@@ -69,13 +57,15 @@
 - [X] Responsive Web Design
 #### Thoughts 
 <p>Determine to get some real coding done outside of work, I went through the above sections fairly quickly due to previous experience. Pretty cool to actually breeze through some material instead of living in Struggle &trade; City the whole time. At work I'm about to start creating my first JQuery carousel with content dynamically added through an AJAX call using endpoints from the WordPress REST API. So far I've got the object titles, featured image, and post link to display on the page. Next is to build out the carousel's functionality. Last is the styling. Also, there may be an opportunity to dive into React and React Native on the horizon. FeelsGoodMan.</p>
+
 >Measure twice, cut once
+
 #### References(s)
 1. Accessibility - [Source](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility)
 2. RWD - [Source](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles)
--->
 
-<!--
+
+
 ## Day 7: Jan 9
 ### Today's Progress
 - [X] Chapter 2
@@ -170,10 +160,10 @@ Had an enlighting talk with my boss today. The first time in awhile I've ever fe
 
 Also, I'm about ready to jump off of the old #teamnosleep bandwagon but I've got coursework and papers to sign. Time management has to be one the most crucial skills I need to absolutely master in my adult life. Future me depends on it. Can't let her down.
 
- <p><em>Me hoarding my off work hours</em></p>
- 
 ![Gif of Gollum and his precious](https://media.giphy.com/media/xlLerrsdqYdWw/giphy.gif)
 
+ <p><em>Me hoarding my off work hours</em></p>
+ 
 #### Reference(s)
 Java A Beginner's Guide - Seventh Edition by Schildt
 
